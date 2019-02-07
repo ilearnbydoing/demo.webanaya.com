@@ -9,6 +9,32 @@ var $products,
 
 
 $products = {
+	classifiedadmin : {
+
+	name     : 'Classified Admin',
+
+	tag      : 'Yii',
+
+	img      : 'images/classifiedadmin.jpg',
+
+	url      : 'http://krishnatechnosoft.co.in/product/demo/backend/web/site/index',
+
+	purchase : 'https://www.webanaya.com/contact',
+
+},
+	classified : {
+
+	name     : 'classified',
+
+	tag      : 'Yii',
+
+	img      : 'images/classified.jpg',
+
+	url      : 'http://krishnatechnosoft.co.in/product/demo/',
+
+	purchase : 'https://www.webanaya.com/contact',
+
+},
 
 		tourpress : {
 
