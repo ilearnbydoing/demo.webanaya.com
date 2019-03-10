@@ -9,6 +9,19 @@ var $products,
 
 
 $products = {
+	crmadmin : {
+
+	name     : 'CRM Admin',
+
+	tag      : 'Codeigniter',
+
+	img      : 'images/classifiedadmin.jpg',
+
+	url      : 'http://krishnatechnosoft.co.in/product/demo/backend/web/site/index',
+
+	purchase : 'https://www.perfexcrm.com/demo/admin/authentication',
+
+},
 	classifiedadmin : {
 
 	name     : 'Classified Admin',
